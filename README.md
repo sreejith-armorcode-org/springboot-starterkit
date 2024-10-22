@@ -1,5 +1,6 @@
 # SpringBoot StarterKit
 
+
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/josephrodriguez/springboot-starterkit/maven-package.yaml?branch=main)
 [![codecov](https://codecov.io/gh/josephrodriguez/springboot-starterkit/branch/main/graph/badge.svg?token=FVTMMF2BB1)](https://codecov.io/gh/josephrodriguez/springboot-starterkit)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=josephrodriguez_springboot-starterkit&metric=alert_status)](https://sonarcloud.io/dashboard?id=josephrodriguez_springboot-starterkit)
